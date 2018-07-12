@@ -1,4 +1,4 @@
-*# -*- mode: org; coding: utf-8-unix; fill-column: 80 -*-
+# -*- mode: org; coding: utf-8-unix; fill-column: 80 -*-
 #+STARTUP: hidestars showall
 * Hello, Paul!
   This repository contains the sysfiles for your personal machine.  In
