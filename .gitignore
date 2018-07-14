@@ -2,3 +2,5 @@
 !/.gitignore
 !/LICENSE.txt
 !/README.org
+!/root/
+!/root/.gitconfig
